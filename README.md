@@ -1,6 +1,9 @@
 # banking-system
 A CLI banking system in C++ that simulates real-world banking transactions.
 
+<img src = "Screenshot 2026-04-24 112700.png" width = "600" > 
+
+
 ## In this project i've learnt the following:
 - Use of vectors
 - Functions program flow
@@ -20,6 +23,7 @@ Deposits funds
 Withdraws money from account
 ### 5. Transfer
 Transfers funds from account A to B 
+
 
 
 
